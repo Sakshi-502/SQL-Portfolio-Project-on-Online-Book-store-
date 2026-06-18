@@ -1,4 +1,4 @@
-### SQL Portfolio Project on Online Book store
+# SQL Portfolio Project on Online Book store
 
 
 #### Key takeaways include:
